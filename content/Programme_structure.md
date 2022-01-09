@@ -6,12 +6,58 @@ The academic levels are defined as levels 4, 5 and 6 (equating to the first, sec
 
 The academic levels and years applicable to your programme of study are shown below:
 
-|Year of study	|Academic level|
-|:-:|:-:|
-|1|	4|
-|2|	5|
-|3|	6 Industrial placement year (optional)|
-|3/4|	6|
+$$
+\begin{array}{c|c}
+\mbox{Year of study}&\mbox{Academic level}\\
+\hline
+1&4\\
+2&5\\
+3&\mbox{Industrial placement year (optional)}\\
+3/4&6
+\end{array}
+$$
+
+## Programme aims
+
+The BSc (Hons) Mathematics programme has been devised in accordance with the University's graduate attributes of programmes of study as set out in UPR TL03.
+
+Additionally this programme aims to:
+- offer an education suited to the abilities and career aspirations of students which, by offering choices of study path, will help them realize their own potential to reach professional mathematician status;
+- offer potential postgraduate students a platform which will enable them to embark upon further study in areas such as pure mathematics, numerical analysis, statistics, financial modelling, or other related disciplines;
+- offer students opportunities to specialize in areas of applicable mathematics and related subjects based on a broad foundation;
+- develop competence in communicating mathematical results clearly to other experts and to non-specialists, including the use of computers and software packages for information retrieval and presentation;
+- develop the ability to approach problem-solving activities using mathematical approaches aided, where appropriate, by computer-based techniques.
+
+Additional aim for the Financial Mathematics named route:
+- provide a coherent programme of study focused on financial modelling.
+
+In addition, for those opting to take professional training:
+- provide a one-year training placement in a suitable environment working alongside other professionals. This enhances the achievement of most of the above aims, dependent upon the character of the placement.
+
+## Programme Learning Outcomes
+
+The programme has the following programme learning outcomes:
+
+- Knowledge and understanding:
+  - areas of fundamental importance to mathematics and its applications;
+  - further areas of mathematics and its applications selected by themselves, at a level appropriate to a professional mathematician;
+  - appropriate ways of using computers to solve problems and to communicate;
+  - effective ways of communicating results to mathematicians and non-specialists;
+  - time and resource management to meet deadlines;
+  - the significance of science, technology, and economic factors in modern society;
+  - appropriate ways of developing computer algorithms for solving a variety of mathematical problems and methods of estimating the accuracy of results.
+  - develop an understanding of financial products, financial markets, and current issues in finance
+- Intellectual skills:
+  - apply their knowledge and understanding of areas of mathematics and its applications to the solution of problems in a manner appropriate to a professional mathematician;
+  - use computers to solve problems in an appropriate manner;
+  - be able to think logically and critically within areas appropriate to a professional mathematician; be able to use creativity and mathematical approaches in practical problem-solving activities;
+  - learn independently and to continue learning;
+  - have the capacity to work successfully, both as an individual and as a member of a team, by managing time and resources to meet deadlines.
+  - appropriate ways of building and solving stochastic models for finance.
+- Practical skills:
+  - use computers to effectively solve relevant models.
+- Transferable skills:
+  - present results to mathematicians and non- specialists using technology, verbally and in writing.
 
 
 ##	Modules
@@ -21,7 +67,6 @@ Most students will study 8 modules a year whilst on a full-time degree programme
 A 15-credit module encompasses 150 hours of student effort. Typically, two thirds of this is “directed learning” and a third is “non-directed learning” (i.e. time spent doing background reading and extra exercises that you may personally find in textbooks or module notes). In the early years directed learning will typically include 3-4 hours a week of timetabled classes, either lectures or tutorials with a member of staff. There may also be some laboratory experiments or practical work that has to be supervised by a member of staff. The rest of the time should be spent doing unsupervised experiments, set examples and tutorial questions (which may not be assessed) and assignments that will be assessed. As you progress to higher levels the number of timetabled classes is reduced with a greater emphasis on independent. Clearly the actual amount of independent time you spend on a module will vary considerably according to how hard you find the subject, how efficient you are, and your own personal standards!
 
 The University regularly reviews the content, methods of delivery and assessment of modules. To aid this, students are asked to complete a feedback questionnaire towards the end of each module.  
-Each module has a unique 'DMD Code' for example 6ENT1012. The first digit indicates the academic level of the module.  
 
 On successful completion of a module a student is awarded 15 credit points (or 30 if given a double weighting). There is more detailed information in the Program Specification accessible from the Studynet/Canvas Programme pages.
 
@@ -69,3 +114,62 @@ To be eligible for this option you must have passed 120 credits at level 4 and 1
 Information about Study Abroad and Exchanges (including list of the University’s partner universities, details of the application process and key deadlines) can be found in: https://www.herts.ac.uk/international/overseas-study/study-abroad.  
 
 Please note that final approval to go ahead with Study Abroad must be given by the Study Abroad Coordinator (Carrie Ricketts: c.ricketts@herts.ac.uk). Visa applications or purchase of travel tickets must not be made until final approval is agreed.
+
+## List of Modules
+
+The various units of teaching within a programme are referred to as *modules*. Each module in the programme sits at a particular level, where Level 4 means that the module is of a standard suitable for first year, Level 5 for second year and Level 6 for third year of study by a full-time honours degree student.
+
+On arrival in the first year, we will register you on the modules appropriate for the degree pathway you have chosen. If you are a direct entry student to a higher level, we will discuss with you the options that may be available before you are registered. The University runs an automated timetable system which optimises the allocation of rooms and timeslots across the whole institution. The information fed into this system comes from the timetable in the School and from you when you make option choices. You will see option talks advertised on StudyNet. These will help you decide which modules to choose. You fill in an options form and return it to the Ask Herts Hutton Hub in Hutton Hub. You will then be pre-registered on these modules for the next academic year. You may not pass all the exams you need to proceed to the modules you have been pre-registered on. In this case, we will automatically remove you from modules you cannot yet progress to and register you on ones that you need to retake. In some cases, timetable constraints will mean you cannot take all the modules you would like to e.g. a mixture of modules from two different levels. This is another good reason to try as hard as you can to pass modules at the first or referred sittings.
+
+Each module is designated by a code. For example the code for the module ‘Numbers and Sets’ is 4PAM2010. The first digit ‘4’ indicates that this is a Level 4 module, and the following three characters ‘PAM’ indicate that it is administered by the Department of Physics, Astronomy and Mathematics. On your timetable you might see the longer version of the code 4PAM2010-0901. The additional ‘0901’ indicates the module runs from September to January, i.e. in semester A. When you read the module guide for any module, available on the StudyNet module page, you will see that not all modules are alike. There are different types of session: labs, computer classes, tutorials and examples classes are some examples. There will also be a differing balance of assessment with the coursework element being worth anything from 20 to 100 percent of the total mark for the module.
+
+```{admonition} I cannot see my modules on StudyNet – what do I do?
+:class: warning
+
+It can happen that some of the modules you are studying are not on your StudyNet home page. If this happens, you should contact the Helpdesk by e-mail or telephone on 01707 284678. We apologise that we cannot make changes to these pages within the School.
+```
+
+
+- Level 4 modules
+  - Semester A:
+    - 4PAM2004 - Introduction to Mathematical Reasoning
+    - 4PAM2006 - Mathematical methods
+    - 4PAM1008 - Probability and Statistics
+    - 4PAM2010 - Numbers and Sets
+  - Semester B:
+    - 4PAM1012 - Financial and Actuarial Mathematics
+    - 4PAM1014 - Linear Algebra
+    - 4PAM1016 - Applications of Calculus
+    - 4PAM1018 - Computational Modelling
+- Level 5 Modules
+  - Semester A:
+    - 5PAM1022 - Mathematical Techniques 2
+    - 5PAM1023 - Programming
+    - 5PAM1025 - Professional Teaching Skills
+    - 5PAM1026 - Number Theory
+    - 5PAM1028 - Algebra
+    - 5PAM1053 - Motion and Tensors
+  - Semester B:
+    - 5PAM1029 - Numerical methods
+    - 5PAM1031 - Real Analysis
+    - 5PAM1032 - Differential Equations
+    - 5PAM1033 - Statistical Modelling
+  - Semester AB:
+    - 5PAM1020 - Financial Markets and Portfolio Theory
+- Level 6 Modules
+  - Semester A:
+    - 6PAM1020 - Complex Analysis
+    - 6PAM1023 - Partial Differential Equations
+    - 6PAM1024 - Linear Optimisation
+    - 6PAM1037 - Linear Modelling
+    - 6PAM1061 - Lagrangian Dynamics
+    - 6PAM2009 - Groups and Representations
+  - Semester B:
+    - 6PAM1027 - Further Numerical Methods
+    - 6PAM1028 - Nonlinear Optimisation
+    - 6PAM1029 - Combinatorics
+    - 6PAM1030 - Nonlinear Systems
+    - 6PAM1033 - Multivariate Statistics
+  - Semester AB:
+    - 6PAM1031 - Financial Mathematics and Derivative Pricing
+    - 6PAM2010 - Mathematical Project and investigative Skills
