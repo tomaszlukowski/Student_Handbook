@@ -1,4 +1,4 @@
-# Student support
+# (old) Student support
 
 The University provides several services to support you in your studies. Your personal tutor is a good starting point for these if you are uncertain how to access these services. Some are to help with your academic studies, some are for your social enjoyment and some are to help with personal problems. Many of these are organised by the University for all students, whilst others are provided just for mathematics students.
 

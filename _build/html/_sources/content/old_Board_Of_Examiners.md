@@ -1,4 +1,4 @@
-# Board of Examiners
+# (old) Board of Examiners
 
 Broadly speaking, there are two main types of Board of Examiners: Module Boards and Programme Boards.  Module Boards will meet and confirm grades before the meetings of relevant Programme Boards.  The main business of a Programme Board is to make decisions about interim and final awards and about the continuation of students on their programmes.
 
