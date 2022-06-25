@@ -66,7 +66,7 @@ Most students will study 8 modules a year whilst on a full-time degree programme
 
 A 15-credit module encompasses 150 hours of student effort. Typically, two thirds of this is “directed learning” and a third is “non-directed learning” (i.e. time spent doing background reading and extra exercises that you may personally find in textbooks or module notes). In the early years directed learning will typically include 3-4 hours a week of timetabled classes, either lectures or tutorials with a member of staff. There may also be some laboratory experiments or practical work that has to be supervised by a member of staff. The rest of the time should be spent doing unsupervised experiments, set examples and tutorial questions (which may not be assessed) and assignments that will be assessed. As you progress to higher levels the number of timetabled classes is reduced with a greater emphasis on independent. Clearly the actual amount of independent time you spend on a module will vary considerably according to how hard you find the subject, how efficient you are, and your own personal standards!
 
-The University regularly reviews the content, methods of delivery and assessment of modules. To aid this, students are asked to complete a feedback questionnaire towards the end of each module.  
+The University regularly reviews the content, methods of delivery and assessment of modules. To aid this, students are asked to complete a feedback questionnaire towards the end of each module.
 
 On successful completion of a module a student is awarded 15 credit points (or 30 if given a double weighting). There is more detailed information in the Program Specification accessible from the Studynet/Canvas Programme pages.
 
@@ -83,7 +83,7 @@ The University of Hertfordshire has a strong heritage for producing Engineering 
 -	Many companies will offer a major project for the final year when they have had the student work for them on industrial placement.
 -	Most employers consider a Sandwich Degree to be a better qualification than a full-time degree.
 -	There is statistical evidence to show that sandwich students gain a higher classification than full-time students given the same average marks in the second year.
-Usually students are paid by the companies whilst on placement.  Students are responsible for securing their own placements, and the University offer comprehensive support for this via its Careers and Employment Service (https://www.herts.ac.uk/life/careers-and-recruitment).  
+Usually students are paid by the companies whilst on placement.  Students are responsible for securing their own placements, and the University offer comprehensive support for this via its Careers and Employment Service (https://www.herts.ac.uk/life/careers-and-recruitment).
 
 All placements must be approved by the Careers and Employment Service team and you are typically required to start work no later than 1st September.  Otherwise you will need to continue the full-time degree without a sandwich placement.
 
@@ -97,7 +97,7 @@ If you feel you have chosen the wrong degree programme then it may be possible t
 - there is a vacancy on the new programme.
 
 Initially you should discuss this with your programme leader and then with the programme leader for the programme you wish to change to. If they agree, you will need to complete and submit a transfer form.
-Prior to requesting a transfer, it is vital that you seek advice any tuition fees matters, please contact student-finance@herts.ac.uk.  
+Prior to requesting a transfer, it is vital that you seek advice any tuition fees matters, please contact student-finance@herts.ac.uk.
 
 ##	Opportunities for Study Abroad
 
@@ -110,8 +110,8 @@ To be eligible for this option you must have passed 120 credits at level 4 and 1
 
 The alternative is to replace either one Semester of, or all your second year with study abroad at a partner institution. In this case, modules are chosen to correspond as far as possible to the curriculum of the home programme. Whether you study for one semester or the whole year abroad, your degree classification will be based on Level 6 (and Level 7 in the case of the MEng) only. You need to be aware too that your degree will not be accredited by a professional Engineering body. However, your study abroad will be recognised (so long as you pass the modules) by being awarded a degree award title which will include the words ‘with a Year Abroad’ or ‘with a Semester Abroad’.
 
-To be eligible for this option you must have passed 120 credits at level 4 and 120 credits at level 5.  
-Information about Study Abroad and Exchanges (including list of the University’s partner universities, details of the application process and key deadlines) can be found in: https://www.herts.ac.uk/international/overseas-study/study-abroad.  
+To be eligible for this option you must have passed 120 credits at level 4 and 120 credits at level 5.
+Information about Study Abroad and Exchanges (including list of the University’s partner universities, details of the application process and key deadlines) can be found in: https://www.herts.ac.uk/international/overseas-study/study-abroad.
 
 Please note that final approval to go ahead with Study Abroad must be given by the Study Abroad Coordinator (Carrie Ricketts: c.ricketts@herts.ac.uk). Visa applications or purchase of travel tickets must not be made until final approval is agreed.
 

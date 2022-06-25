@@ -6,8 +6,9 @@ options:
   numbered: true
 
 chapters:
-- file: content/Department
-- file: content/Programme_structure
-- file: content/Student_Support
-- file: content/Assessment
-- file: content/Board_Of_Examiners
+- file: content/old_Department
+- file: content/old_Programme_structure
+- file: content/old_Student_Support
+- file: content/old_Assessment
+- file: content/old_Board_Of_Examiners
+- file: content/old_Introduction
